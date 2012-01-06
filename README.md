@@ -14,5 +14,5 @@ The VIES class allows you to validate a European VAT-number and retrieve address
 	$info = $vies->getInfo('BE 0883.923.584'); // array with information
 
 ## CONTACT
-http://www.tse-webdesign.be/
+http://www.tse-webdesign.be/  
 info@tse-webdesign.be (bugs, questions or comments)
