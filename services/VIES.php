@@ -27,7 +27,7 @@ class VIES
 	 */
 	public function __construct ()
 	{
-		$this->_client = new \SoapClient(self::$_viesUrl);
+		$this->_client = new SoapClient(self::$_viesUrl);
 	}
 	
 	
